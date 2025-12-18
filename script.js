@@ -71,9 +71,6 @@ $('.autoplay').slick({
     ]
 });
 
-
-
-
 //////// nav bar///////////
 window.onscroll = function () {
     var nav = document.querySelector("nav");
@@ -83,7 +80,6 @@ window.onscroll = function () {
         nav.classList.remove("scrolled");
     }
 };
-
 
 function menuIcon() {
     document.querySelector('.menu-list').classList.toggle('show');
