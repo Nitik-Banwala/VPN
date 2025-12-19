@@ -37,7 +37,7 @@ $('.slider').slick({
 
     ]
 });
-///////img slider /////////
+
 $('.autoplay').slick({
     dots: false,
     infinite: true,
